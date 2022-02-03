@@ -63,12 +63,12 @@
 <li>Winner of Steganography 2021 Event organized by Furenergy-Grid</li>
 </ul>
 
-<a href="mailto:akshatsood2024@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<!-- <a href="mailto:akshatsood2024@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.instagram.com/akshatsood2024"><img src="https://img.shields.io/badge/<akshatsood2024>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/akshatsood2024"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://www.twitter.com/akshatsood2024"><img src="https://img.shields.io/badge/<akshatsood2024>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
 <a href="https://www.quora.com/Akshat-Sood-38"><img src="https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white"></a>
-<a href="https://stackoverflow.com/users/17053494/akshat-sood"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
+<a href="https://stackoverflow.com/users/17053494/akshat-sood"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a> -->
 
 <span></span>
 
