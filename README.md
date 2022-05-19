@@ -1,18 +1,19 @@
-![BANNER](akshatsood2024.png)
+<img src="IIT BHU BANNER.jpeg">
 
 <span>
-    <img width="540" src="https://github-readme-stats.vercel.app/api?username=akshatsood2024&show_icons=true">
+    <img width="540" src="https://github-readme-stats.vercel.app/api?username=akshatsood2025&show_icons=true">
     <img width="300" src="https://media2.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 </span><br><br>
 
 <div align=center>
-    <img src="https://komarev.com/ghpvc/?username=akshatsood2024">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/akshatsood2024?style=social">
+    <img src="https://komarev.com/ghpvc/?username=akshatsood2025">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/akshatsood2025?style=social">
     <img src="https://img.shields.io/badge/-Full%20Stack%20Development-orange">
     <img src="https://img.shields.io/badge/-Competitive%20Programming-red">
     <img src="https://img.shields.io/badge/-Machine%20Learning-informational">
-    <img src="https://img.shields.io/badge/-Computer%20Science-yellow">
-    <img src="https://img.shields.io/badge/-Investment-blueviolet">
+    <img src="https://img.shields.io/badge/-Flute-blueviolet">
+    <img src="https://img.shields.io/badge/-Sketching-blueviolet">
+    <img src="https://img.shields.io/badge/-Computer%20Science-blueviolet">
 </div><br>
     
 <b>Education</b> : B.Tech in Electronics Enginnering @ IIT (BHU) Varanasi (2019-Present)<br>
@@ -40,7 +41,6 @@
     <img width="55" src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png">
     <img width="80" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png">
     <img width="50" src="https://opencv.org/wp-content/uploads/2020/07/OpenCV_logo_no_text_.png">
-    <img width="50" src="https://logos-download.com/wp-content/uploads/2021/01/Spring_Logo.svg">
     <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Tensorflow_logo.svg/1200px-Tensorflow_logo.svg.png">
 </span>
 
@@ -48,7 +48,7 @@
 
 <b>Projects</b>
 
-<a href="https://github.com/akshatsood2024/Vision-2.0"><img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=akshatsood2024&repo=Vision-2.0"></a>
+<a href="https://github.com/akshatsood2025/Vision-2.0"><img width="410" src="https://github-readme-stats.vercel.app/api/pin/?username=akshatsood2025&repo=Vision-2.0"></a>
 
 <b>Positions of Responsibility</b>
 <ul>
@@ -63,13 +63,13 @@
 <li>Winner of Steganography 2021 Event organized by Furenergy-Grid</li>
 </ul>
 
-<!-- <a href="mailto:akshatsood2024@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://www.instagram.com/akshatsood2024"><img src="https://img.shields.io/badge/<akshatsood2024>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
-<a href="https://www.linkedin.com/in/akshatsood2024"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://www.twitter.com/akshatsood2024"><img src="https://img.shields.io/badge/<akshatsood2024>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
-<a href="https://www.quora.com/Akshat-Sood-38"><img src="https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white"></a>
+<!-- <a href="mailto:akshatsood2025@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.instagram.com/akshatsood2025"><img src="https://img.shields.io/badge/<akshatsood2024>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/akshatsood2025"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.twitter.com/akshatsood2025"><img src="https://img.shields.io/badge/<akshatsood2024>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
+<a href="https://www.quora.com/akshatsood2025"><img src="https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white"></a>
 <a href="https://stackoverflow.com/users/17053494/akshat-sood"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a> -->
 
 <span></span>
 
-<img width="840" src = "https://github-profile-trophy.vercel.app/?username=akshatsood2024&row=1">
+<img width="840" src = "https://github-profile-trophy.vercel.app/?username=akshatsood2025&row=1">
