@@ -20,8 +20,8 @@
 <b>Programming Languages</b>
 
 <span>
-    <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png">
-    <img width="50" src="https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png">
+    <code><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png"></code>
+    <code><img width="50" src="https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png"></code>
     <img width="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/240px-CSS3_logo.svg.png">
     <img width="45" src="https://www.pngkit.com/png/full/534-5342172_c-language-course-c-logo.png">
     <img width="45" src="https://www.stackean.com/wp-content/uploads/2020/12/java.png">
@@ -58,7 +58,7 @@
 <li>Coordinator of Cassandra 2022 : Data Analysis Event organized under the banner of <a href="https://www.instagram.com/udyam_iit_bhu/">UDYAM</a></li>
 <li>Worked as Practice Test Paper Development Intern at <a href="https://www.edvizo.com/">Edvizo</a> during April-May (2020) contributing an extensive set of 750+ Questions in the field of Mathematics for JEE Aspirants</li>
 <li>Co-Coordinator of Pixelate 2021 : Image Processing and Computer Vision Event organized under <a href="https://www.instagram.com/technexiitbhu/">Technex</a></li>
-<li>Member of Core Team and Mentor at iMaze 2021 : Freshers Event organized by Robotics Club of IIT (BHU) Varanasi</li>
+<li>Member of Core Team and Mentor at iMaze 2021 : Freshers Event organized by the Robotics Club of IIT (BHU) Varanasi</li>
 </ul>
 
 <b>Honours and Achievements</b>
