@@ -1,4 +1,4 @@
-<img src="IIT BHU.jpeg">
+<!-- <img src="IIT BHU.jpeg"> -->
 
 <span>
     <img width="540" src="https://github-readme-stats.vercel.app/api?username=akshatsood2025&show_icons=true">
@@ -8,11 +8,10 @@
 <div align=center>
     <img src="https://komarev.com/ghpvc/?username=akshatsood2025">
     <img alt="GitHub followers" src="https://img.shields.io/github/followers/akshatsood2025?style=social">
-    <img src="https://img.shields.io/badge/-Full%20Stack%20Development-orange">
-    <img src="https://img.shields.io/badge/-Flute-green">
+    <img src="https://img.shields.io/badge/-Web%20Development-orange">
     <img src="https://img.shields.io/badge/-Competitive%20Programming-red">
-    <img src="https://img.shields.io/badge/-Sketching-blue">
     <img src="https://img.shields.io/badge/-Machine%20Learning-yellow">
+    <img src="https://img.shields.io/badge/-App%20Development-blue">
     <img src="https://img.shields.io/badge/-Computer%20Science-blueviolet">
 </div><br>
     
@@ -55,22 +54,22 @@
 
 <b>Positions of Responsibility</b>
 <ul>
-<li>Currenty working as Intern in Engineering Development Group at MathWorks (Bangalore)</li>
-<li>Coordinator of Cassandra 2022</li>
+<li>Currenty working as Software Development Intern in Engineering Development Group at MathWorks (Bangalore)</li>
+<li>Coordinator of Cassandra 2022 : Data Analysis Event organized under the banner of <a href="https://www.instagram.com/udyam_iit_bhu/">UDYAM</a></li>
 <li>Worked as Practice Test Paper Development Intern at <a href="https://www.edvizo.com/">Edvizo</a> during April-May (2020) contributing an extensive set of 750+ Questions in Mathematics</li>
-<li>Co-Coordinator of Pixelate 2021 <a href="https://www.instagram.com/technexiitbhu/">Technex</a></li>
-<li>Member of Core Team and Mentor at iMaze 2021- Freshers Event organized by the Robotics Club of IIT BHU</li>
+<li>Co-Coordinator of Pixelate 2021 : Image Processing and Computer Vision Event organized under <a href="https://www.instagram.com/technexiitbhu/">Technex</a></li>
+<li>Member of Core Team and Mentor at iMaze 2021 : Freshers Event organized by the Robotics Club of IIT BHU</li>
 </ul>
 
 <b>Honours and Achievements</b>
 <ul>
-<li>Secured First Position in Cassandra 2021- Data Analysis Event organized under the banner of <a href="https://www.instagram.com/udyam_iit_bhu/">UDYAM</a></li>
+<li>Secured First Position in Cassandra 2021 : Data Analysis Event organized under the banner of <a href="https://www.instagram.com/udyam_iit_bhu/">UDYAM</a></li>
 </ul>
 
 <a href="mailto:akshatsood2025@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-<a href="https://www.instagram.com/akshatsood2025"><img src="https://img.shields.io/badge/<akshatsood2024>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
+<a href="https://www.instagram.com/akshatsood2025"><img src="https://img.shields.io/badge/<akshatsood2025>-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/akshatsood2025"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://www.twitter.com/akshatsood2025"><img src="https://img.shields.io/badge/<akshatsood2024>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
+<a href="https://www.twitter.com/akshatsood2025"><img src="https://img.shields.io/badge/<akshatsood2025>-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white"></a>
 <a href="https://www.quora.com/akshatsood2025"><img src="https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white"></a>
 <a href="https://stackoverflow.com/users/17053494/akshat-sood"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white"></a>
 
