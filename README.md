@@ -27,7 +27,6 @@
     <img width="45" src="https://www.stackean.com/wp-content/uploads/2020/12/java.png">
     <img width="54" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Bash_Logo_Colored.svg/1200px-Bash_Logo_Colored.svg.png">
     <img width="54" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png">
-    <img width="60" src="https://o.remove.bg/downloads/6ee73626-121f-4c5c-8d96-9a7ac1d7e1b7/image-removebg-preview.png">
 </span>
 
 <span></span>
