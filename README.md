@@ -57,7 +57,7 @@
 
 <b>Positions of Responsibility</b>
 <ul>
-<li>Currenty working as Software Development Intern in Engineering Development Group at MathWorks (Bangalore)</li>
+<li>Currenty working as Software Development Intern in Engineering Development Group at @MathWorks (Bangalore)</li>
 <li>Coordinator of Cassandra 2022 : Data Analysis Event organized under the banner of <a href="https://www.instagram.com/udyam_iit_bhu/">UDYAM</a></li>
 <li>Worked as Practice Test Paper Development Intern at <a href="https://www.edvizo.com/">Edvizo</a> during April-May (2020) contributing an extensive set of 750+ Questions in the field of Mathematics for JEE Aspirants</li>
 <li>Co-Coordinator of Pixelate 2021 : Image Processing and Computer Vision Event organized under <a href="https://www.instagram.com/technexiitbhu/">Technex</a></li>
